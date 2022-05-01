@@ -1,4 +1,4 @@
-                                                        Hi 👋 I'm Karan Singh Rautela
+                                   Hi 👋 I'm Karan Singh Rautela
 
 - 🔭 I’m currently working on python projects.
 - 🌱 I’m currently learning python.
